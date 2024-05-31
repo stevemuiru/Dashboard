@@ -1,3 +1,6 @@
+body{
+    font-family: "Roboto", sans-serif;
+}
 .content{
     display: grid;
     grid-template-columns: 20% 80%;
@@ -117,4 +120,20 @@ h6{
 .c-right, .d-right{
     display: grid;
     grid-template-rows: 50% 50%;
+}
+h4{
+    margin-top: 15px;
+    margin-left: 20px;
+}
+h1{
+    margin-left: 20px;
+}
+.text h6{
+    font-size: 16px; 
+}
+.text p{
+ font-size: 12px;
+}
+.text{
+    padding: 5px 10px;
 }
